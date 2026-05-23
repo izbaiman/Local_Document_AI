@@ -1,0 +1,78 @@
+{
+  "invoice_1.pdf": {
+    "class": "Invoice",
+    "invoice_number": "INV-2025-0042",
+    "date": "January 15, 2025",
+    "company": "ACME Corporation",
+    "total_amount": 2322.0
+  },
+  "invoice_2.pdf": {
+    "class": "Invoice",
+    "invoice_number": "TS-8821",
+    "date": "03/22/2025",
+    "company": "TechSupply Ltd.",
+    "total_amount": 9614.0
+  },
+  "invoice_3.pdf": {
+    "class": "Invoice",
+    "invoice_number": "MSD-105",
+    "date": "February 28, 2025",
+    "company": "Maria Santos Design Studio",
+    "total_amount": 4000.0
+  },
+  "other_1.txt": {
+    "class": "Unclassifiable"
+  },
+  "other_2.pdf": {
+    "class": "Unclassifiable"
+  },
+  "other_3.txt": {
+    "class": "Resume",
+    "name": "Urban Planning Applications",
+    "email": null,
+    "phone": null,
+    "experience_years": null
+  },
+  "resume_1.pdf": {
+    "class": "Resume",
+    "name": null,
+    "email": "james.mitchell@email.com",
+    "phone": "312) 555-0198",
+    "experience_years": 7
+  },
+  "resume_2.pdf": {
+    "class": "Resume",
+    "name": "Aisha Patel",
+    "email": "aisha.patel@gmail.com",
+    "phone": "+44 7911 123456",
+    "experience_years": 5
+  },
+  "resume_3.pdf": {
+    "class": "Resume",
+    "name": null,
+    "email": "davidchen@promail.com",
+    "phone": "555-867-5309",
+    "experience_years": 4
+  },
+  "utility_1.pdf": {
+    "class": "Utility Bill",
+    "account_number": "MEL-0045892-01",
+    "date": "January 1, 2025",
+    "usage_kwh": 682.0,
+    "amount_due": 107.56
+  },
+  "utility_2.pdf": {
+    "class": "Utility Bill",
+    "account_number": "SWS-2291047",
+    "date": "January 5, 2025",
+    "usage_kwh": 87.3,
+    "amount_due": 48.0
+  },
+  "utility_3.txt": {
+    "class": "Utility Bill",
+    "account_number": "LGC-887-4421-9",
+    "date": "January 10, 2025",
+    "usage_kwh": 2501.0,
+    "amount_due": 88.72
+  }
+}
