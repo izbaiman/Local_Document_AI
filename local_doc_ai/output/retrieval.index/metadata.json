@@ -1,0 +1,100 @@
+[
+  {
+    "chunk_id": "invoice_1.pdf::chunk_0",
+    "filename": "invoice_1.pdf",
+    "doc_class": "Invoice",
+    "text": "ACME Corporation\n123 Business Park, New York, NY 10001\nTel: +1-212-555-0100\n\nINVOICE\n\nInvoice Number: INV-2025-0042\nDate: January 15, 2025\nDue Date: February 14, 2025\n\nBill To:\nGlobex Industries\n456 Commerce Street\nChicago, IL 60601\n\nDescription                  Qty   Unit Price    Amount\n--------------------------------------------------------\nWeb Design Services            1    $1,500.00   $1,500.00\nSEO Optimisation Package       1      $350.00     $350.00\nMonthly Maintenance            3      $100.00     $300.00\n\n                                     Subtotal:  $2,150.00\n                                         Tax (8%):  $172.00\n                               TOTAL AMOUNT:  $2,322.00\n\nPayment Terms: Net 30\nPlease remit payment to: bank@acmecorp.com",
+    "snippet": "ACME Corporation 123 Business Park, New York, NY 10001 Tel: +1-212-555-0100  INVOICE  Invoice Number: INV-2025-0042 Date: January 15, 2025 Due Date: February 14, 2025  Bill To: Globex Industries 456 C"
+  },
+  {
+    "chunk_id": "invoice_2.pdf::chunk_0",
+    "filename": "invoice_2.pdf",
+    "doc_class": "Invoice",
+    "text": "TechSupply Ltd.\n78 Innovation Drive, Austin, TX 73301\n\nTAX INVOICE\nInvoice No.: TS-8821\nInvoice Date: 03/22/2025\nPayment Due: 04/21/2025\n\nVendor: TechSupply Ltd.\nCustomer: Bright Future Schools\n\nItem                        Units    Rate      Total\n-----------------------------------------------------\nLaptop Computers (HP)          10   $850.00   $8,500.00\nWireless Keyboards             10    $45.00     $450.00\nMouse (Logitech)               10    $25.00     $250.00\n\n                           Sub-total:          $9,200.00\n                           Discount (5%):       -$460.00\n                           VAT (10%):            $874.00\n                           Total Amount Due:   $9,614.00\n\nPurchase Order Ref: PO-2025-0088",
+    "snippet": "TechSupply Ltd. 78 Innovation Drive, Austin, TX 73301  TAX INVOICE Invoice No.: TS-8821 Invoice Date: 03/22/2025 Payment Due: 04/21/2025  Vendor: TechSupply Ltd. Customer: Bright Future Schools  Item"
+  },
+  {
+    "chunk_id": "invoice_3.pdf::chunk_0",
+    "filename": "invoice_3.pdf",
+    "doc_class": "Invoice",
+    "text": "FREELANCE SERVICES INVOICE\n\nFrom: Maria Santos Design Studio\nEmail: maria@santosdesign.com\n\nTo: Omega Retail Group\nAttention: Procurement Department\n\nInvoice #: MSD-105\nDate: February 28, 2025\nDue Date: March 30, 2025\n\nServices Rendered:\n- Brand Identity Design Package      $2,000.00\n- Social Media Graphics (30 posts)   $1,200.00\n- Print-Ready Brochure (8 pages)       $800.00\n\n                           Subtotal:  $4,000.00\n                            Tax (0%):      $0.00\n                             TOTAL:   $4,000.00\n\nBank Transfer: First National Bank\nAccount: 00123456789\nRouting: 021000021",
+    "snippet": "FREELANCE SERVICES INVOICE  From: Maria Santos Design Studio Email: maria@santosdesign.com  To: Omega Retail Group Attention: Procurement Department  Invoice #: MSD-105 Date: February 28, 2025 Due Dat"
+  },
+  {
+    "chunk_id": "other_1.txt::chunk_0",
+    "filename": "other_1.txt",
+    "doc_class": "Unclassifiable",
+    "text": "BOARD MEETING MINUTES\nCompany: Horizon Ventures LLC\nDate: March 5, 2025\nLocation: 300 Corporate Blvd, Suite 400, Boston, MA\n\nAttendees:\n  - Robert Kim (CEO)\n  - Priya Sharma (CFO)\n  - Tom Walsh (CTO)\n  - Legal Counsel: Nina Okafor\n\nAgenda Item 1: Q4 2024 Financial Review\n  CFO presented Q4 results. Revenue increased 22% YoY to $4.2M.\n  Operating expenses rose 11% due to new hires.\n\nAgenda Item 2: Product Roadmap for 2025\n  CTO outlined three major initiatives:\n  (a) Mobile application launch — Q2 2025\n  (b) API partner programme — Q3 2025\n  (c) Enterprise tier rollout — Q4 2025\n\nAgenda Item 3: Series B Fundraising Update\n  CEO reported term sheets received from two VCs.\n  Target close: April 2025.\n\nNext meeting: April 2, 2025 at 10:00 AM EST.\nMinutes recorded by: Executive Assistant",
+    "snippet": "BOARD MEETING MINUTES Company: Horizon Ventures LLC Date: March 5, 2025 Location: 300 Corporate Blvd, Suite 400, Boston, MA  Attendees:   - Robert Kim (CEO)   - Priya Sharma (CFO)   - Tom Walsh (CTO)"
+  },
+  {
+    "chunk_id": "other_2.pdf::chunk_0",
+    "filename": "other_2.pdf",
+    "doc_class": "Unclassifiable",
+    "text": "REAL ESTATE PURCHASE AGREEMENT\n\nThis Agreement is entered into on February 14, 2025 by and between:\n\nSeller: Robert & Lisa Donovan\nBuyer:  Kevin Park\n\nProperty Address: 1204 Elmwood Drive, Nashville, TN 37201\n\nPurchase Price: $385,000.00\nEarnest Money Deposit: $10,000.00 (due within 5 days)\nClosing Date: March 28, 2025\n\nTerms and Conditions:\n1. The property is sold \"as-is\" subject to inspection contingency.\n2. Financing contingency: Buyer to obtain mortgage approval within 21 days.\n3. Home inspection to be completed by February 25, 2025.\n4. Seller will provide clear title at closing.\n5. Property taxes prorated to closing date.\n\nHOA Fees: $220/month\nCurrent Mortgage Balance (Seller): $210,000.00\n\nBoth parties agree to the above terms.\n\nSeller Signature: ___________________ Date: __________\nBuyer Signature:  ___________________ Date: __________",
+    "snippet": "REAL ESTATE PURCHASE AGREEMENT  This Agreement is entered into on February 14, 2025 by and between:  Seller: Robert & Lisa Donovan Buyer:  Kevin Park  Property Address: 1204 Elmwood Drive, Nashville,"
+  },
+  {
+    "chunk_id": "other_3.txt::chunk_0",
+    "filename": "other_3.txt",
+    "doc_class": "Resume",
+    "text": "ACADEMIC RESEARCH PAPER ABSTRACT\n\nTitle: Deep Learning Approaches for Satellite Image Segmentation in\n       Urban Planning Applications\n\nAuthors: Dr. Emma Larsson, Prof. Kwame Asante, Dr. Yuki Tanaka\nInstitution: Institute for Geospatial Research, University of Amsterdam\nPublished: Urban Computing Journal, Vol. 18, Issue 2, 2025\n\nAbstract:\nThis paper presents a comparative study of convolutional neural network (CNN)\narchitectures for semantic segmentation of high-resolution satellite imagery\nin dense urban environments. We evaluate U-Net, DeepLab v3+, and a novel\nhybrid transformer-CNN architecture on a dataset of 2,400 labelled images\nfrom 12 cities across four continents.\n\nResults indicate that our hybrid architecture achieves a mean Intersection-\nover-Union (mIoU) of 0.87, outperforming standard U-Net (0.81) and DeepLab\nv3+ (0.83) on the urban segmentation task.\n\nThe proposed model demonstrates particular robustness to:\n  • Seasonal variation in vegetation\n  • Shadows from high-ris",
+    "snippet": "ACADEMIC RESEARCH PAPER ABSTRACT  Title: Deep Learning Approaches for Satellite Image Segmentation in        Urban Planning Applications  Authors: Dr. Emma Larsson, Prof. Kwame Asante, Dr. Yuki Tanaka"
+  },
+  {
+    "chunk_id": "other_3.txt::chunk_1",
+    "filename": "other_3.txt",
+    "doc_class": "Resume",
+    "text": "g standard U-Net (0.81) and DeepLab\nv3+ (0.83) on the urban segmentation task.\n\nThe proposed model demonstrates particular robustness to:\n  • Seasonal variation in vegetation\n  • Shadows from high-rise buildings\n  • Mixed-use zoning patterns\n\nDataset and code are openly available at: github.com/igs-ams/urban-seg\n\nKeywords: semantic segmentation, satellite imagery, CNN, urban planning,\n          remote sensing, deep learning",
+    "snippet": "g standard U-Net (0.81) and DeepLab v3+ (0.83) on the urban segmentation task.  The proposed model demonstrates particular robustness to:   • Seasonal variation in vegetation   • Shadows from high-ris"
+  },
+  {
+    "chunk_id": "resume_1.pdf::chunk_0",
+    "filename": "resume_1.pdf",
+    "doc_class": "Resume",
+    "text": "James R. Mitchell\njames.mitchell@email.com | (312) 555-0198 | LinkedIn: linkedin.com/in/jrmitchell\n\nPROFESSIONAL SUMMARY\nExperienced software engineer with 7 years of experience in full-stack web development,\ncloud infrastructure, and team leadership.\n\nEXPERIENCE\n\nSenior Software Engineer — Cloudbase Inc.                      2020 – Present\n  (cid:127) Led a team of 5 engineers building microservices on AWS\n  (cid:127) Reduced deployment time by 40% through CI/CD pipeline improvements\n\nSoftware Engineer — DataStream Analytics                       2018 – 2020\n  (cid:127) Built ETL pipelines processing 10M records/day\n  (cid:127) Stack: Python, Apache Spark, PostgreSQL\n\nJunior Developer — WebWorks Agency                             2017 – 2018\n  (cid:127) Developed client-facing websites using React and Node.js\n\nEDUCATION\nBachelor of Science in Computer Science — University of Illinois, 2017\nGPA: 3.8 / 4.0\n\nSKILLS\nPython, JavaScript, TypeScript, React, AWS, Docker, Kubernetes, PostgreSQ",
+    "snippet": "James R. Mitchell james.mitchell@email.com | (312) 555-0198 | LinkedIn: linkedin.com/in/jrmitchell  PROFESSIONAL SUMMARY Experienced software engineer with 7 years of experience in full-stack web deve"
+  },
+  {
+    "chunk_id": "resume_1.pdf::chunk_1",
+    "filename": "resume_1.pdf",
+    "doc_class": "Resume",
+    "text": "ing React and Node.js\n\nEDUCATION\nBachelor of Science in Computer Science — University of Illinois, 2017\nGPA: 3.8 / 4.0\n\nSKILLS\nPython, JavaScript, TypeScript, React, AWS, Docker, Kubernetes, PostgreSQL, Redis\n\nCERTIFICATIONS\nAWS Certified Solutions Architect (2022)",
+    "snippet": "ing React and Node.js  EDUCATION Bachelor of Science in Computer Science — University of Illinois, 2017 GPA: 3.8 / 4.0  SKILLS Python, JavaScript, TypeScript, React, AWS, Docker, Kubernetes, PostgreSQ"
+  },
+  {
+    "chunk_id": "resume_2.pdf::chunk_0",
+    "filename": "resume_2.pdf",
+    "doc_class": "Resume",
+    "text": "CURRICULUM VITAE\n\nAisha Patel\naisha.patel@gmail.com\nPhone: +44 7911 123456\n\nOBJECTIVE\nSeeking a marketing manager role where I can leverage 5 years of experience\nin digital marketing, brand strategy and team leadership.\n\nWORK EXPERIENCE\n\nDigital Marketing Manager — BrightBrand UK              Jan 2021 – Present\n  Managed £500k annual ad budget across Google and Meta platforms.\n  Increased organic traffic by 120% within 18 months.\n\nMarketing Executive — Pulse Media Group                  Jun 2019 – Dec 2020\n  Executed email campaigns achieving 28% open rate.\n  Coordinated influencer partnerships with 50+ creators.\n\nEDUCATION\nMaster of Science, Marketing Analytics — University of Edinburgh   2019\nBachelor of Commerce — University of Manchester                    2017\n\nSKILLS\nGoogle Analytics, HubSpot, Salesforce CRM, SEO/SEM, A/B Testing, SQL\n\nReferences available on request.",
+    "snippet": "CURRICULUM VITAE  Aisha Patel aisha.patel@gmail.com Phone: +44 7911 123456  OBJECTIVE Seeking a marketing manager role where I can leverage 5 years of experience in digital marketing, brand strategy a"
+  },
+  {
+    "chunk_id": "resume_3.pdf::chunk_0",
+    "filename": "resume_3.pdf",
+    "doc_class": "Resume",
+    "text": "DAVID CHEN\ndavidchen@promail.com | 555-867-5309\n\nData Scientist | Machine Learning Engineer\n\nPROFILE\nData scientist with 4 years of experience building production ML pipelines,\nNLP models, and recommendation systems.\n\nEXPERIENCE\n\nData Scientist II — NovaMind AI                           2022 – Present\n  Built transformer-based NLP classifier (F1: 0.94) deployed in production.\n  Mentored 2 junior data scientists.\n\nData Scientist — RetailIQ Corp                            2021 – 2022\n  Designed recommendation engine boosting click-through by 18%.\n\nMachine Learning Intern — FutureTech Labs                2020 – 2021\n  Contributed to computer vision object detection project.\n\nEDUCATION\nM.S. Data Science — Stanford University                   2020\nB.S. Statistics — UC Berkeley                             2018\nGPA: 3.9 / 4.0\n\nTECHNICAL SKILLS\nPython, TensorFlow, PyTorch, Scikit-learn, SQL, Spark, Docker, GCP\n\nPROJECTS\n  GitHub: github.com/dchen-ds",
+    "snippet": "DAVID CHEN davidchen@promail.com | 555-867-5309  Data Scientist | Machine Learning Engineer  PROFILE Data scientist with 4 years of experience building production ML pipelines, NLP models, and recomme"
+  },
+  {
+    "chunk_id": "utility_1.pdf::chunk_0",
+    "filename": "utility_1.pdf",
+    "doc_class": "Utility Bill",
+    "text": "METROPOLITAN ELECTRIC COMPANY\nCustomer Service: 1-800-555-POWER\nwww.metroelectric.com\n\nELECTRICITY BILL\n\nAccount Number: MEL-0045892-01\nCustomer Name: Sarah Thompson\nService Address: 88 Maple Street, Portland, OR 97201\n\nBilling Period: January 1, 2025 – January 31, 2025\nStatement Date: February 3, 2025\nPayment Due Date: February 20, 2025\n\nMETER READING SUMMARY\nPrevious Reading (Dec 31): 43,210 kWh\nCurrent Reading  (Jan 31): 43,892 kWh\nUsage This Period:             682 kWh\n\nCHARGES\nEnergy Charge (682 kWh × $0.12):     $81.84\nDistribution Charge:                  $12.50\nBase Service Charge:                   $8.00\nTaxes & Fees:                          $5.22\n                        Amount Due:  $107.56\n\nPrevious Balance:      $0.00\n                TOTAL DUE: $107.56\n\nPlease pay by February 20, 2025 to avoid late fees.",
+    "snippet": "METROPOLITAN ELECTRIC COMPANY Customer Service: 1-800-555-POWER www.metroelectric.com  ELECTRICITY BILL  Account Number: MEL-0045892-01 Customer Name: Sarah Thompson Service Address: 88 Maple Street,"
+  },
+  {
+    "chunk_id": "utility_2.pdf::chunk_0",
+    "filename": "utility_2.pdf",
+    "doc_class": "Utility Bill",
+    "text": "SUNSTATE WATER & SEWER AUTHORITY\nPO Box 4400, Phoenix, AZ 85001\n(602) 555-7890\n\nWATER BILL\n\nAccount #: SWS-2291047\nService Period: December 2024\nStatement Date: January 5, 2025\nDue Date: January 25, 2025\n\nBilling Name: Carlos Rivera\nProperty Address: 22 Desert Rose Lane, Scottsdale, AZ 85251\n\nUSAGE SUMMARY\nMeter Number: 0027-AZ\nPrevious Reading: 112,480 gallons\nCurrent Reading:  113,960 gallons\nConsumption:        1,480 gallons\nUsage kWh equivalent: 87.3 kWh (pumping energy estimate)\n\nCURRENT CHARGES\nWater Service (1,480 gal):       $23.40\nSewer Service:                   $18.75\nStormwater Charge:                $4.00\nState Assessment:                 $1.85\n                  Current Charges: $48.00\nPrevious Balance:                  $0.00\n                  Amount Due: $48.00",
+    "snippet": "SUNSTATE WATER & SEWER AUTHORITY PO Box 4400, Phoenix, AZ 85001 (602) 555-7890  WATER BILL  Account #: SWS-2291047 Service Period: December 2024 Statement Date: January 5, 2025 Due Date: January 25, 2"
+  },
+  {
+    "chunk_id": "utility_3.txt::chunk_0",
+    "filename": "utility_3.txt",
+    "doc_class": "Utility Bill",
+    "text": "LAKEVIEW GAS COMPANY\n123 Energy Way, Chicago, IL 60602\nHelpline: 1-888-555-LGAS\n\nNATURAL GAS BILL\n\nAccount Number: LGC-887-4421-9\nCustomer: Jennifer Williams\nService Address: 5501 North Oak Ave, Chicago, IL 60640\n\nStatement Date: January 10, 2025\nBilling Period: Dec 15, 2024 – Jan 12, 2025\nPayment Due: January 30, 2025\n\nUSAGE DETAILS\nTherms Used This Period:        85.4 therms\nkWh Equivalent:                2,501 kWh\nAverage Daily Usage:             2.9 therms/day\n\nCHARGE BREAKDOWN\nGas Supply (85.4 therms @ $0.72):   $61.49\nDistribution Charge:                 $14.20\nCustomer Service Charge:              $6.00\nEfficiency Surcharge:                 $1.80\nTaxes (City + State):                 $5.23\n                       AMOUNT DUE:   $88.72\n\nRemit payment to: Lakeview Gas Company, PO Box 4400, Chicago IL 60602",
+    "snippet": "LAKEVIEW GAS COMPANY 123 Energy Way, Chicago, IL 60602 Helpline: 1-888-555-LGAS  NATURAL GAS BILL  Account Number: LGC-887-4421-9 Customer: Jennifer Williams Service Address: 5501 North Oak Ave, Chica"
+  }
+]
