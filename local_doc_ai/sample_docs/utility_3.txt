@@ -1,0 +1,28 @@
+LAKEVIEW GAS COMPANY
+123 Energy Way, Chicago, IL 60602
+Helpline: 1-888-555-LGAS
+
+NATURAL GAS BILL
+
+Account Number: LGC-887-4421-9
+Customer: Jennifer Williams
+Service Address: 5501 North Oak Ave, Chicago, IL 60640
+
+Statement Date: January 10, 2025
+Billing Period: Dec 15, 2024 – Jan 12, 2025
+Payment Due: January 30, 2025
+
+USAGE DETAILS
+Therms Used This Period:        85.4 therms
+kWh Equivalent:                2,501 kWh
+Average Daily Usage:             2.9 therms/day
+
+CHARGE BREAKDOWN
+Gas Supply (85.4 therms @ $0.72):   $61.49
+Distribution Charge:                 $14.20
+Customer Service Charge:              $6.00
+Efficiency Surcharge:                 $1.80
+Taxes (City + State):                 $5.23
+                       AMOUNT DUE:   $88.72
+
+Remit payment to: Lakeview Gas Company, PO Box 4400, Chicago IL 60602
