@@ -1,0 +1,29 @@
+ACADEMIC RESEARCH PAPER ABSTRACT
+
+Title: Deep Learning Approaches for Satellite Image Segmentation in
+       Urban Planning Applications
+
+Authors: Dr. Emma Larsson, Prof. Kwame Asante, Dr. Yuki Tanaka
+Institution: Institute for Geospatial Research, University of Amsterdam
+Published: Urban Computing Journal, Vol. 18, Issue 2, 2025
+
+Abstract:
+This paper presents a comparative study of convolutional neural network (CNN)
+architectures for semantic segmentation of high-resolution satellite imagery
+in dense urban environments. We evaluate U-Net, DeepLab v3+, and a novel
+hybrid transformer-CNN architecture on a dataset of 2,400 labelled images
+from 12 cities across four continents.
+
+Results indicate that our hybrid architecture achieves a mean Intersection-
+over-Union (mIoU) of 0.87, outperforming standard U-Net (0.81) and DeepLab
+v3+ (0.83) on the urban segmentation task.
+
+The proposed model demonstrates particular robustness to:
+  • Seasonal variation in vegetation
+  • Shadows from high-rise buildings
+  • Mixed-use zoning patterns
+
+Dataset and code are openly available at: github.com/igs-ams/urban-seg
+
+Keywords: semantic segmentation, satellite imagery, CNN, urban planning,
+          remote sensing, deep learning

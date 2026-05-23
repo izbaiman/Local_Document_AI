@@ -1,0 +1,27 @@
+BOARD MEETING MINUTES
+Company: Horizon Ventures LLC
+Date: March 5, 2025
+Location: 300 Corporate Blvd, Suite 400, Boston, MA
+
+Attendees:
+  - Robert Kim (CEO)
+  - Priya Sharma (CFO)
+  - Tom Walsh (CTO)
+  - Legal Counsel: Nina Okafor
+
+Agenda Item 1: Q4 2024 Financial Review
+  CFO presented Q4 results. Revenue increased 22% YoY to $4.2M.
+  Operating expenses rose 11% due to new hires.
+
+Agenda Item 2: Product Roadmap for 2025
+  CTO outlined three major initiatives:
+  (a) Mobile application launch — Q2 2025
+  (b) API partner programme — Q3 2025
+  (c) Enterprise tier rollout — Q4 2025
+
+Agenda Item 3: Series B Fundraising Update
+  CEO reported term sheets received from two VCs.
+  Target close: April 2025.
+
+Next meeting: April 2, 2025 at 10:00 AM EST.
+Minutes recorded by: Executive Assistant
