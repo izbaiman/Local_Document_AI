@@ -1,0 +1,23 @@
+# ──────────────────────────────────────────────────────────────
+# Local Document AI — Python dependencies
+# All packages are open-source; no paid API keys required.
+# ──────────────────────────────────────────────────────────────
+
+# ── PDF text extraction ────────────────────────────────────────
+pdfminer.six>=20221105          # layout-aware PDF text extraction (primary)
+pypdf>=3.0.0                    # PDF fallback & page counting
+
+# ── Semantic embeddings + retrieval ───────────────────────────
+sentence-transformers>=2.7.0   # dense vector embeddings (SentenceTransformers)
+faiss-cpu>=1.7.4                # FAISS approximate nearest-neighbour search
+numpy>=1.24.0                   # required by FAISS + sentence-transformers
+
+# ── Zero-shot classification (optional, used with --use-zero-shot) ──
+transformers>=4.40.0            # HuggingFace Transformers
+torch>=2.0.0                    # PyTorch (CPU build is fine)
+
+# ── Sample document generation ────────────────────────────────
+reportlab>=4.0.0                # generate sample PDF files for testing
+
+# ── Standard library (already included in Python 3.8+) ────────
+# pathlib, re, json, logging, argparse, dataclasses — no install needed
